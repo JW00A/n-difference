@@ -25,3 +25,5 @@ If i is an odd number, then i/2 and i/2-1 are its numbers(for as long as they ar
  If i = 8, then i/2 = 4 or both numbers are equal in all cases of j. If i = 3.5 or its numbers are fractions, then both numbers are i/2 and are equal.
 
  This rule holds for all odd integers (i). In other words, if i is an odd integer, then this rule applies, and i/2 and i/2-1 are its numbers. However if (i) is real or rational number, this rule no longer applies, and i/2 is considered as both its numbers.
+
+ Note: n = j works seemingly for all odd i numbers. E.g. 101 is i, (51, 50) are its numbers, if j = 4, then n = 4 or n = (51 * 4)-(50 * 4)
