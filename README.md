@@ -39,4 +39,5 @@ If i is an odd number, then i/2 and i/2-1 are its numbers(for as long as they ar
  2. n = (4 - 3) * 42 + (3 - 4) = 42 - 1 = 41
 
  Since we can express k as a - b, then we can find the difference of any number being multiplyed in these two ways: 1. n = (a * j - b) + (n1 + nN), 2. n = (a - b * j) + (n1 + nN), which depends on which number is being multiplyed, a or b.
+ 
  Additionally, n1 and nN represent additional differences and could be negated if no numbers are being added to the initial ones. Any 2 numbers could be represented as a = a1 + aN and/or b = b1 + bN, or we could find the difference easier if we separate big numbers, in this case n = (a1 - b1)*j1 + (aN - bN)*jN, where j could be an equal multiplyer of these numbers.
