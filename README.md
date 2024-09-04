@@ -33,6 +33,7 @@ Upon further discovery and research I came to the conclusion that difference of 
 E.g. 7 is our number, a and b will be 3 and 4 for the first equation and 4 and 3 for the second one. If these terms are added together, then, we can find n if j = 1 or multiplyer isn't important in the given case since nothing is multiplyed. Then equations will be:
  1. n = (3 - 4) * 1 + (4 - 3) = -1 + 1 = 0
  2. n = (4 - 3) * 1 + (3 - 4) = 1 - 1 = 0
+
 In order to check if it still works with multiplyers, let's j be equal to 42:
  1. n = (3 - 4) * 42 + (4 - 3) = - 42 + 1 = -41
  2. n = (4 - 3) * 42 + (3 - 4) = 42 - 1 = 41
